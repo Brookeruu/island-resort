@@ -17,9 +17,15 @@ ul {
     list-style-type: none;
 }
 
+img {
+  width: 30%;
+  height: 300px;
+}
+
 body {
   background-color: #ffefdf;
   font-family: Trebuchet, sans-serif;
   text-align: center;
   font-size: 16px;
+  padding: 5%;
 }
