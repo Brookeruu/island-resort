@@ -1,6 +1,7 @@
 h1 {
-  text-align: center;
-  font-size: 30px;
+  color: #668;
+  text-align: left;
+  font-size: 80px;
 }
 
 ul {
@@ -8,6 +9,6 @@ ul {
 }
 
 body {
-  background-color: #80ffa0;
+  background-color: #d8e0ff;
   font-family: sans-serif;
 }
